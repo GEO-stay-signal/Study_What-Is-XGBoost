@@ -12,10 +12,10 @@ Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의
   
    - 트리 구성  
     (1) 루트노드(뿌리) ; 트리 구조의 시작, 데이터를 1차적으로 가장 잘 구할 수 있는 첫 번째 조건을 설정  
-   
+    <details>
         첫 번째 조건이라는 건 어떻게 결정할까?   
         전체 데이터셋을 나눌 때 결과의 균일도를 가장 크게 높여주는 feature와 기준값의 조합을 근거로 사용 --> 
-
+    </details>
 
 
 

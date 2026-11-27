@@ -55,7 +55,8 @@ Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의
      f1 score = 긍정으로 예측한 것에서 실제 긍정인 **정밀도(Precision)** + 실제 긍정에서 긍정으로 예측한 **재현율(Recall)** ==> 둘 중 더 낮은 값을 따라감  
      <details> 
          
-     <img width="590" height="147" alt="image" src="https://github.com/user-attachments/assets/a971f589-ed51-4d36-a010-8373734c3769" />  
+     <img width="590" height="147" alt="image" src="https://github.com/user-attachments/assets/a971f589-ed51-4d36-a010-8373734c3769" />
+     
      왜 정밀도와 재현율을 함께 쓸까?  
         ==> 정밀도는 오탐을 잡고, 재현율은 미탐을 잡기 때문임
      </details> 

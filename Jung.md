@@ -120,7 +120,9 @@ Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의
 ---
 
 11.28  
-Today's Qeustion;
+Today's Qeustion; XGBoost에 사용하는 데이터의 유형과 데이터 사용 전 처리과정  
+
+
 
 
 

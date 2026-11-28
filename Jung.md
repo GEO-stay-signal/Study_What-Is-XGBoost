@@ -115,6 +115,8 @@ Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의
     
     </details>
 
+(5) 라이브러리 ; 미리 작성된 유용한 코드 묶음을 필할 때 불러다 쓰는 방식
+
 
 
 

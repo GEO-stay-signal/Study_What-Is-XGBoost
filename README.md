@@ -6,5 +6,6 @@
 1. Xgboost가 무엇일까  
 
 **11.27 Question**  
-XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의 그레이디언트 부스팅(Gradient Boosting) 알고리즘을 빠르고 확장 가능하게 구현한 오픈 소스 머신 러닝 라이브러리
-<-- 해당 내용을 한 단어마다 모두 이해해오세요 (11.28 오후 12시까지 기한입니다~)
+XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의 그레이디언트 부스팅(Gradient Boosting) 알고리즘을 빠르고 확장 가능하게 구현한 오픈 소스 머신 러닝 라이브러리  
+: 단순한 결정 트리를 여러 개 묶어서 에측 정확도를 높이는 기법
+

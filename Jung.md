@@ -119,6 +119,8 @@ Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의
    
 ---
 
+11.28  
+Today's Qeustion;
 
 
 

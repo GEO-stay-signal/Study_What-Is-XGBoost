@@ -1,6 +1,6 @@
 학습내용 정리  
 
-=========================================================================  
+---
 11.27  
 Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의 그레이디언트 부스팅(Gradient Boosting) 알고리즘을 빠르고 확장 가능하게 구현한 오픈 소스 머신 러닝 라이브러리' 내용 정리    
     
@@ -116,7 +116,8 @@ Today's Qeustion; 'XGBoost(eXtreme Gradient Boosting)는 결정 트리 기반의
     </details>
 
 5. 라이브러리 ; 미리 작성된 유용한 코드 묶음을 필할 때 불러다 쓰는 방식
-
+   
+---
 
 
 
